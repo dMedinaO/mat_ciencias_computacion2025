@@ -1,0 +1,24 @@
+id,producto,precio,descuento_efectivo
+1,Computador Combo 1,850000,0.15
+2,Computador Combo 2,650000,0.15
+3,Cámara fotográfica,450000,0.15
+4,Teclado mecánico,120000,0.1
+5,Monitor,200000
+6,Tablet,250000,0.15
+7,Impresora,150000
+8,Auriculares,80000
+9,Smartwatch,180000
+10,Router,100000
+11,Escáner,220000
+12,Proyector,400000,0.1
+13,Silla ergonómica,300000,0.1
+14,Altavoces,160000
+15,Teclado inalámbrico,90000
+16,Webcam,60000
+17,Mouse ergonómico,70000
+18,Disco duro externo,70000
+19,Hub USB,10000
+20,Cargador portátil,25000
+21,Altavoces Bluetooth,95000
+22,Protector de pantalla,15000
+23,Soporte para laptop,8500
