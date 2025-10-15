@@ -1,0 +1,17 @@
+id,nombre,edad,correo_electronico,ingresos
+1,Juan Pérez,34,juan.perez@example.com,700000
+2,Ana Gómez,28,ana.gomez@example.com,560000
+3,Pedro Martínez,45,pedro.martinez@example.com,1200000
+4,Laura Fernández,31,laura.fernandez@example.com,1000000
+5,María López,29,maria.lopez@example.com,2300000
+6,Carlos Sánchez,40,carlos.sanchez@example.com,1300000
+7,Isabel Ruiz,37,,800000
+8,Antonio Morales,50,antonio.morales@example.com,800000
+9,Lucía Martínez,26,lucia.martinez@example.com,1100000
+10,Roberto Castro,33,,450000
+11,Elena Díaz,39,elena.diaz@example.com,900000
+12,David Gómez,42,david.gomez@example.com,800000
+13,Paola Ríos,30,paola.rios@example.com,940000
+14,José Fernández,48,,2300000
+15,Sandra López,27,sandra.lopez@example.com,1800000
+16,Marcelo Sánchez,36,,600000
