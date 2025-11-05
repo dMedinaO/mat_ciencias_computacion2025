@@ -38,3 +38,10 @@ def generate_df_counts(df_values, columns_name, verbose:bool=False):
     # usamos la matriz para generar un data frame.
     df_counts = pd.DataFrame(data=data_rows, columns=columns_name)
     return df_counts
+
+def categorize_iqr(value):
+    if value >0:
+        return 1
+    else:
+        return 0
+        
